@@ -1,2 +1,2 @@
-# Ziapc.-Org
+# Ziapc.Org
 Website work
